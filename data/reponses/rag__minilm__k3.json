@@ -1,0 +1,369 @@
+{
+ "qwen/qwen3.8-27b|Q01|P07,P06,P34": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.15
+ },
+ "qwen/qwen3.8-27b|Q02|P02,P01,P03": {
+  "reponse": "Oui, le paiement en espèces est possible uniquement en boutique Fibrelune.",
+  "sources": [
+   "P02"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.72
+ },
+ "qwen/qwen3.8-27b|Q03|P01,P02,P03": {
+  "reponse": "Vous risquez de recevoir une relance par e-mail et SMS, ainsi que des frais de retard de 15 euros ajoutés à votre prochaine facture. Si la facture reste impayée 30 jours après cette relance, votre ligne sera suspendue jusqu'au règlement complet.",
+  "sources": [
+   "P03"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.54
+ },
+ "qwen/qwen3.8-27b|Q04|P08,P07,P03": {
+  "reponse": "La remise en service de votre ligne intervient sous 24 heures après le paiement. Cette information est précisée dans les conditions relatives au retard de paiement.",
+  "sources": [
+   "P03"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.91
+ },
+ "qwen/qwen3.8-27b|Q05|P04,P34,P03": {
+  "reponse": "Oui, votre facture de 89 euros peut être réglée en deux ou trois fois sans frais. La demande doit être effectuée depuis l'espace client, rubrique Factures, avant la date d'échéance.",
+  "sources": [
+   "P04"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.4
+ },
+ "qwen/qwen3.8-27b|Q06|P05,P03,P01": {
+  "reponse": "Vous disposez de 60 jours après l'émission de la facture pour contester un montant. La contestation se fait depuis l'espace client via le bouton « Contester un montant ».",
+  "sources": [
+   "P05"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.54
+ },
+ "qwen/qwen3.8-27b|Q07|P04,P06,P34": {
+  "reponse": "Le montant prélevé en trop sera remboursé sous 5 jours ouvrés directement sur votre compte bancaire. Vous devez signaler le doublon au service facturation en précisant la date des deux opérations.",
+  "sources": [
+   "P06"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.6
+ },
+ "qwen/qwen3.8-27b|Q08|P07,P09,P08": {
+  "reponse": "Le solde en votre faveur est remboursé automatiquement par virement sous 30 jours sur le compte bancaire enregistré. Vous n'avez aucune démarche à faire, sauf si vous avez changé de banque, auquel cas vous devez transmettre votre nouveau RIB.",
+  "sources": [
+   "P07"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.59
+ },
+ "qwen/qwen3.8-27b|Q09|P19,P13,P11": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.36
+ },
+ "qwen/qwen3.8-27b|Q10|P34,P02,P09": {
+  "reponse": "Non, le geste commercial de 15 euros ne sera jamais versé en argent sur votre compte bancaire. Il apparaîtra sous forme d'avoir sur votre facture suivante, ou sur celle d'après si la facture suivante est déjà émise.",
+  "sources": [
+   "P09"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.53
+ },
+ "qwen/qwen3.8-27b|Q11|P16,P15,P08": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.59
+ },
+ "qwen/qwen3.8-27b|Q12|P10,P16,P15": {
+  "reponse": "L'engagement des offres Fibrelune dure 12 mois. À la fin de cette période, le contrat se poursuit sans engagement.",
+  "sources": [
+   "P10"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q13|P19,P13,P22": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.33
+ },
+ "qwen/qwen3.8-27b|Q14|P05,P15,P13": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.53
+ },
+ "qwen/qwen3.8-27b|Q15|P12,P10,P29": {
+  "reponse": "Non, vous ne paierez pas de frais de résiliation anticipée car votre déménagement à l'étranger est un cas exempté, à condition de fournir une attestation de domicile à l'étranger.",
+  "sources": [
+   "P12"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.43
+ },
+ "qwen/qwen3.8-27b|Q16|P22,P19,P18": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q17|P04,P16,P34": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.33
+ },
+ "qwen/qwen3.8-27b|Q18|P01,P15,P16": {
+  "reponse": "Le passage à une offre supérieure prend effet immédiatement et le mois en cours est facturé au prorata, au jour près. Vous paierez l'ancien tarif jusqu'à la date du changement et le nouveau tarif ensuite.",
+  "sources": [
+   "P15"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.63
+ },
+ "qwen/qwen3.8-27b|Q19|P15,P16,P10": {
+  "reponse": "Le passage à une offre inférieure prend effet au début de la période de facturation suivante. Cette modification est possible une fois tous les 6 mois.",
+  "sources": [
+   "P16"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.41
+ },
+ "qwen/qwen3.8-27b|Q20|P14,P17,P12": {
+  "reponse": "Le transfert de votre ligne vers une nouvelle adresse en France est gratuit. Vous devez le demander depuis l'espace client au moins 15 jours avant votre déménagement.",
+  "sources": [
+   "P17"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.97
+ },
+ "qwen/qwen3.8-27b|Q21|P23,P22,P18": {
+  "reponse": "Le lien de réinitialisation n'est valable que 30 minutes. Vous devez donc demander un nouveau lien si ce délai est dépassé.",
+  "sources": [
+   "P18"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.44
+ },
+ "qwen/qwen3.8-27b|Q22|P19,P13,P22": {
+  "reponse": "Votre compte est bloqué pendant 24 heures après 3 tentatives de connexion erronées. Vous pouvez le débloquer immédiatement en utilisant le bouton « Débloquer mon compte » et en saisissant le code reçu par SMS.",
+  "sources": [
+   "P19"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.6
+ },
+ "qwen/qwen3.8-27b|Q23|P19,P20,P13": {
+  "reponse": "Le code de vérification en deux étapes est valable 5 minutes. Si le code a expiré, vous devez le redemander avec le bouton « Renvoyer un code ».",
+  "sources": [
+   "P20"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.45
+ },
+ "qwen/qwen3.8-27b|Q24|P21,P20,P19": {
+  "reponse": "Si l'ancien numéro n'est plus accessible, vous devez vous présenter en boutique avec une pièce d'identité pour modifier le numéro qui reçoit les codes de sécurité.",
+  "sources": [
+   "P21"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.43
+ },
+ "qwen/qwen3.8-27b|Q25|P22,P17,P19": {
+  "reponse": "Si vous ne reconnaissez pas cette connexion, cliquez sur « Ce n'était pas moi » pour fermer toutes les sessions et changer votre mot de passe.",
+  "sources": [
+   "P22"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.36
+ },
+ "qwen/qwen3.8-27b|Q26|P23,P18,P22": {
+  "reponse": "Pour modifier votre nom, vous devez fournir un justificatif d'identité qui sera vérifié sous 3 jours ouvrés.",
+  "sources": [
+   "P23"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.46
+ },
+ "qwen/qwen3.8-27b|Q27|P24,P14,P34": {
+  "reponse": "Le titulaire peut créer jusqu'à 5 profils supplémentaires pour ses enfants. Chaque profil dispose de son propre identifiant et ne voit ni les factures ni les documents du titulaire.",
+  "sources": [
+   "P24"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.44
+ },
+ "qwen/qwen3.8-27b|Q28|P25,P18,P23": {
+  "reponse": "Vous pouvez demander une copie de toutes vos données personnelles depuis la rubrique Mes informations, lien « Mes données ». Fibrelune répond à cette demande dans un délai d'un mois.",
+  "sources": [
+   "P25"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.58
+ },
+ "qwen/qwen3.8-27b|Q29|P26,P23,P18": {
+  "reponse": "Oui, le service client peut fusionner les deux comptes créés par erreur sur demande. Les factures des deux comptes resteront consultables dans le compte conservé.",
+  "sources": [
+   "P26"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.5
+ },
+ "qwen/qwen3.8-27b|Q30|P27,P22,P29": {
+  "reponse": "Débranchez la box pendant 30 secondes puis rebranchez-la et attendez 5 minutes. Si le voyant reste rouge, lancez le diagnostic à distance depuis l'espace client, rubrique Diagnostic.",
+  "sources": [
+   "P27"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.68
+ },
+ "qwen/qwen3.8-27b|Q31|P28,P14,P08": {
+  "reponse": "Oui, c'est normal car le débit en Wi-Fi peut être divisé par deux ou plus selon la distance et les murs. Pour mesurer le débit réel de votre offre de 1 Gb/s, utilisez le test de débit de l'espace client avec un ordinateur branché en Ethernet.",
+  "sources": [
+   "P28",
+   "P14"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.81
+ },
+ "qwen/qwen3.8-27b|Q32|P29,P08,P04": {
+  "reponse": "L'intervention du technicien est gratuite si la panne provient du réseau Fibrelune, mais elle est facturée 59 euros si le matériel a été endommagé par le client.",
+  "sources": [
+   "P29"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.58
+ },
+ "qwen/qwen3.8-27b|Q33|P32,P33,P03": {
+  "reponse": "Oui, les étudiants bénéficient de 30 % de réduction pendant 12 mois sur l'offre Confort. Il faut fournir une carte étudiant ou un certificat de scolarité de l'année en cours.",
+  "sources": [
+   "P32"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.99
+ },
+ "qwen/qwen3.8-27b|Q34|P33,P32,P04": {
+  "reponse": "Il faut au moins 5 lignes pour demander un devis professionnel. Le devis est envoyé sous 48 heures.",
+  "sources": [
+   "P33"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.69
+ },
+ "qwen/qwen3.8-27b|Q35|P12,P10,P34": {
+  "reponse": "En parrainant un nouvel abonné, vous recevez un avoir de 30 euros, tout comme votre filleul. Cet avoir est appliqué sur la facture qui suit le premier mois d'abonnement de votre ami.",
+  "sources": [
+   "P34"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.46
+ },
+ "qwen/qwen3.8-27b|Q36|P14,P35,P34": {
+  "reponse": "Non, vous pouvez suspendre votre ligne pour une durée de 1 à 6 mois et ne paierez que 5 euros par mois au lieu de votre abonnement. Cette suspension se demande depuis l'espace client, rubrique Mon offre.",
+  "sources": [
+   "P35"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.46
+ },
+ "qwen/qwen3.8-27b|Q37|P14,P12,P29": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.3
+ },
+ "qwen/qwen3.8-27b|Q38|P14,P34,P08": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.4
+ },
+ "qwen/qwen3.8-27b|Q39|P01,P15,P13": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.35
+ },
+ "qwen/qwen3.8-27b|Q40|P02,P16,P15": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.35
+ },
+ "qwen/qwen3.8-27b|Q41|P14,P04,P35": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.64
+ },
+ "qwen/qwen3.8-27b|Q42|P17,P23,P21": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.27
+ },
+ "qwen/qwen3.8-27b|Q43|P21,P30,P13": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.77
+ },
+ "qwen/qwen3.8-27b|Q44|P33,P25,P10": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.53
+ }
+}

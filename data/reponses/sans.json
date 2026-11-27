@@ -1,0 +1,310 @@
+{
+ "qwen/qwen3.8-27b|Q01|": {
+  "reponse": "Je ne dispose pas des informations spécifiques concernant la date exacte de prélèvement de votre abonnement.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.51
+ },
+ "qwen/qwen3.8-27b|Q02|": {
+  "reponse": "Non, Fibrelune n'accepte pas les paiements en liquide. Vous devez régler votre facture par carte bancaire ou virement bancaire.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.28
+ },
+ "qwen/qwen3.8-27b|Q03|": {
+  "reponse": "En cas de retard de paiement, vous risquez l'application de pénalités de retard et, en cas de non-règlement prolongé, la suspension de votre service Fibrelune.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.67
+ },
+ "qwen/qwen3.8-27b|Q04|": {
+  "reponse": "Je ne dispose pas des informations précises concernant le délai de rétablissement de la ligne après paiement. Je vous invite à contacter directement notre service client pour obtenir cette information.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.74
+ },
+ "qwen/qwen3.8-27b|Q05|": {
+  "reponse": "Je ne dispose pas d'informations sur les options de paiement échelonné pour une facture de 89 euros. Je vous invite à contacter directement notre service client pour vérifier cette possibilité.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.4
+ },
+ "qwen/qwen3.8-27b|Q06|": {
+  "reponse": "Vous disposez de 30 jours à compter de la date d'émission de la facture pour formuler une réclamation. Merci de nous contacter via votre espace client ou par téléphone pour signaler l'anomalie.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.7
+ },
+ "qwen/qwen3.8-27b|Q07|": {
+  "reponse": "Je suis désolé pour cette erreur de facturation. Un remboursement sera effectué sur votre compte bancaire sous 5 à 10 jours ouvrés.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 1.75
+ },
+ "qwen/qwen3.8-27b|Q08|": {
+  "reponse": "Aucune action n'est nécessaire de votre part, le remboursement de votre avoir sera effectué automatiquement sur votre compte bancaire sous 30 jours.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.48
+ },
+ "qwen/qwen3.8-27b|Q09|": {
+  "reponse": "Oui, vous avez droit à une compensation financière pour cette interruption de service de plus de 24 heures. Je vous invite à consulter votre contrat ou à contacter notre service facturation pour le calcul exact de l'indemnisation.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.6
+ },
+ "qwen/qwen3.8-27b|Q10|": {
+  "reponse": "Je ne dispose pas des informations spécifiques concernant la promesse faite par votre conseiller ni des modalités de versement de cette somme. Je vous invite à contacter directement le service client pour vérifier le détail de votre dossier.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.6
+ },
+ "qwen/qwen3.8-27b|Q11|": {
+  "reponse": "Je ne dispose pas des informations précises concernant les frais d'arrêt anticipé de contrat après six mois.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.5
+ },
+ "qwen/qwen3.8-27b|Q12|": {
+  "reponse": "Je ne dispose pas des informations concernant la durée de l'engagement dans mes données actuelles.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.28
+ },
+ "qwen/qwen3.8-27b|Q13|": {
+  "reponse": "Si vous ne rendez pas le modem après l'arrêt de votre abonnement, Fibrelune vous facturera le prix de rachat de l'équipement.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.46
+ },
+ "qwen/qwen3.8-27b|Q14|": {
+  "reponse": "Je ne dispose pas des informations précises concernant le délai exact d'arrêt de votre contrat après une demande de résiliation.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q15|": {
+  "reponse": "Non, vous ne paierez aucun frais de résiliation pour quitter Fibrelune, même en cas de déménagement à l'étranger.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 1.78
+ },
+ "qwen/qwen3.8-27b|Q16|": {
+  "reponse": "Oui, vous pouvez annuler votre abonnement dans les 14 jours suivant la souscription sans frais ni justification. Pour ce faire, rendez-vous dans votre espace client ou contactez notre service client.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 1.85
+ },
+ "qwen/qwen3.8-27b|Q17|": {
+  "reponse": "Je ne dispose pas des informations sur les offres et débits de Fibrelune pour répondre à cette question.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.26
+ },
+ "qwen/qwen3.8-27b|Q18|": {
+  "reponse": "Je ne dispose pas des informations spécifiques sur le mode de calcul de la facturation pour un changement d'offre en cours de mois.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.14
+ },
+ "qwen/qwen3.8-27b|Q19|": {
+  "reponse": "Je ne dispose pas des informations nécessaires pour répondre à cette question.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.35
+ },
+ "qwen/qwen3.8-27b|Q20|": {
+  "reponse": "Le transfert de votre abonnement Fibrelune vers votre nouveau logement à Lyon est gratuit.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.63
+ },
+ "qwen/qwen3.8-27b|Q21|": {
+  "reponse": "Les liens de réinitialisation sont temporaires et expirent généralement après 24 heures pour des raisons de sécurité. Veuillez demander un nouveau lien via votre espace client ou notre service d'assistance.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.63
+ },
+ "qwen/qwen3.8-27b|Q22|": {
+  "reponse": "Votre compte est bloqué pour une durée de 30 minutes après plusieurs tentatives de connexion échouées. Vous pourrez réessayer d'accéder à votre espace client après ce délai.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.48
+ },
+ "qwen/qwen3.8-27b|Q23|": {
+  "reponse": "Je ne dispose pas des informations précises concernant la durée de validité des codes de connexion Fibrelune.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.57
+ },
+ "qwen/qwen3.8-27b|Q24|": {
+  "reponse": "Veuillez contacter notre service client au 3111 ou via l'application Fibrelune pour mettre à jour votre numéro de téléphone et réactiver la réception des codes.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.38
+ },
+ "qwen/qwen3.8-27b|Q25|": {
+  "reponse": "Vérifiez immédiatement vos mots de passe et activez la double authentification dans votre espace client. Si vous ne reconnaissez pas la connexion, contactez notre support pour bloquer l'accès et sécuriser votre compte.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.34
+ },
+ "qwen/qwen3.8-27b|Q26|": {
+  "reponse": "Veuillez fournir une copie de votre pièce d'identité en cours de validité ou un acte de naissance pour justifier la correction de l'orthographe de votre nom.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.55
+ },
+ "qwen/qwen3.8-27b|Q27|": {
+  "reponse": "Je ne dispose pas d'informations précises sur le nombre d'accès séparés autorisés pour les enfants sur votre compte Fibrelune.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.25
+ },
+ "qwen/qwen3.8-27b|Q28|": {
+  "reponse": "En tant qu'assistant virtuel, je n'ai pas accès à vos données personnelles ni à votre historique client. Pour exercer votre droit d'accès à vos informations, veuillez contacter directement notre service client via les canaux officiels.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.41
+ },
+ "qwen/qwen3.8-27b|Q29|": {
+  "reponse": "Oui, il est possible de fusionner deux espaces clients créés avec la même adresse e-mail. Merci de contacter notre support technique pour effectuer cette opération.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.89
+ },
+ "qwen/qwen3.8-27b|Q30|": {
+  "reponse": "Vérifiez que tous les câbles sont bien connectés, puis redémarrez votre routeur en le débranchant 30 secondes. Si le problème persiste, contactez le support technique.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.35
+ },
+ "qwen/qwen3.8-27b|Q31|": {
+  "reponse": "Oui, c'est tout à fait normal car la vitesse affichée sur votre téléphone dépend de la distance à la box, des obstacles et de la qualité de l'antenne Wi-Fi de votre appareil. Pour tester la vitesse réelle de votre ligne, il est recommandé de réaliser le test en connexion filaire (câble Ethernet) directement sur la box.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.3
+ },
+ "qwen/qwen3.8-27b|Q32|": {
+  "reponse": "Le déplacement du technicien est gratuit si une intervention est nécessaire pour réparer un dysfonctionnement de votre ligne Fibrelune. En revanche, si le diagnostic révèle que le problème provient de votre équipement personnel ou d'une cause non liée à notre réseau, des frais peuvent s'appliquer.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 1.0
+ },
+ "qwen/qwen3.8-27b|Q33|": {
+  "reponse": "Je ne dispose pas d'informations sur les réductions spécifiques aux étudiants. Je vous invite à consulter notre site web ou à contacter un conseiller pour plus de détails.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.44
+ },
+ "qwen/qwen3.8-27b|Q34|": {
+  "reponse": "Je ne dispose pas d'informations sur le nombre de lignes requis pour un devis professionnel.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.41
+ },
+ "qwen/qwen3.8-27b|Q35|": {
+  "reponse": "En parrainant un ami chez Fibrelune, vous bénéficiez d'une réduction sur votre facture et votre ami reçoit un avantage à l'inscription.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.44
+ },
+ "qwen/qwen3.8-27b|Q36|": {
+  "reponse": "Vous pouvez suspendre votre abonnement Fibrelune pour la durée de votre stage à l'étranger afin de ne pas payer l'intégralité de la facture. Merci de contacter notre service client pour activer cette suspension.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.46
+ },
+ "qwen/qwen3.8-27b|Q37|": {
+  "reponse": "Non, Fibrelune ne propose pas de services de fibre optique en Algérie.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.42
+ },
+ "qwen/qwen3.8-27b|Q38|": {
+  "reponse": "Oui, vous pouvez louer un deuxième décodeur TV pour votre chambre. Cette option est disponible pour les abonnés Fibrelune souhaitant étendre leur service de télévision.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.27
+ },
+ "qwen/qwen3.8-27b|Q39|": {
+  "reponse": "Je ne dispose pas des informations concernant les horaires d'ouverture de nos boutiques.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.75
+ },
+ "qwen/qwen3.8-27b|Q40|": {
+  "reponse": "Je n'ai pas d'informations sur une offre spéciale dédiée aux retraités dans mes données actuelles.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.76
+ },
+ "qwen/qwen3.8-27b|Q41|": {
+  "reponse": "Je ne dispose pas des tarifs spécifiques pour les appels internationaux vers l'Italie depuis une ligne fixe Fibrelune.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.29
+ },
+ "qwen/qwen3.8-27b|Q42|": {
+  "reponse": "Oui, vous pouvez souscrire à l'option IP fixe pour votre abonnement Fibrelune. Cette option est disponible sur demande auprès de votre conseiller ou via votre espace client.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 11.37
+ },
+ "qwen/qwen3.8-27b|Q43|": {
+  "reponse": "Non, Fibrelune est un opérateur de télécommunications spécialisé dans la fibre optique et ne vend pas de téléphones portables.",
+  "sources": [],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.31
+ },
+ "qwen/qwen3.8-27b|Q44|": {
+  "reponse": "Je ne dispose pas d'informations sur l'identité du directeur général de Fibrelune.",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.35
+ }
+}

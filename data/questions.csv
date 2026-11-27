@@ -1,0 +1,45 @@
+id,question,passages,faits,repondable
+Q01,Quel jour l'argent de mon abonnement est-il retiré de mon compte bancaire ?,P01,12,1
+Q02,Est-ce que je peux régler ma facture en liquide ?,P02,boutique,1
+Q03,J'ai oublié de payer ma facture le mois dernier. Qu'est-ce que je risque ?,P03,15 euros,1
+Q04,Ma ligne a été coupée parce que je n'avais pas payé. Combien de temps après mon paiement est-elle rétablie ?,P03,24 heures|24 h,1
+Q05,Ma facture fait 89 euros. Est-ce que je peux l'étaler ?,P04,deux ou trois fois|2 ou 3 fois,1
+Q06,Combien de temps ai-je pour réclamer sur une facture qui me semble fausse ?,P05,60 jours,1
+Q07,On m'a pris deux fois 39 euros ce mois-ci. Quand vais-je récupérer l'argent ?,P06,5 jours ouvrés|cinq jours ouvrés,1
+Q08,J'ai résilié et il me reste de l'argent chez vous. Que dois-je faire pour le récupérer ?,P07,30 jours,1
+Q09,Internet n'a pas marché pendant quatre jours. Ai-je droit à quelque chose ?,P08,48 heures|48 h;trentième|1/30,1
+Q10,Un conseiller m'a promis 15 euros. Est-ce que je les reçois sur mon compte bancaire ?,P09,facture suivante|prochaine facture|avoir,1
+Q11,Combien coûte l'arrêt de mon contrat si je pars au bout de six mois ?,P10,49 euros,1
+Q12,Combien de temps dure l'engagement ?,P10,12 mois,1
+Q13,Que se passe-t-il si je ne rends pas le modem après avoir arrêté mon abonnement ?,P11,90 euros,1
+Q14,Combien de jours après ma demande mon contrat s'arrête-t-il vraiment ?,P11,10 jours,1
+Q15,Je pars vivre au Canada. Vais-je payer des frais pour quitter Fibrelune ?,P12,justificatif|attestation de domicile,1
+Q16,Je viens de m'abonner sur votre site et je regrette. Puis-je annuler ?,P13,14 jours,1
+Q17,Quel débit maximum a-t-on avec l'offre la moins chère ?,P14,300 Mb/s,1
+Q18,"Si je prends l'offre au-dessus aujourd'hui, comment sera calculé ce mois-ci ?",P15,prorata,1
+Q19,Je voudrais une formule moins chère. Quand le changement s'appliquera-t-il ?,P16,période de facturation suivante|prochaine période|prochaine facture;6 mois,1
+Q20,Je change d'appartement à Lyon le mois prochain. Combien coûte le transfert de ma fibre ?,P17,gratuit,1
+Q21,Le lien reçu pour changer de code d'accès ne marche plus. Pourquoi ?,P18,30 minutes,1
+Q22,Je me suis trompé plusieurs fois en me connectant et je ne peux plus entrer. Pendant combien de temps ?,P19,24 heures|24 h,1
+Q23,Le code reçu sur mon portable pour me connecter est refusé. Combien de temps reste-t-il valable ?,P20,5 minutes|cinq minutes,1
+Q24,Mon ancien numéro de portable ne fonctionne plus et je dois le remplacer pour recevoir les codes. Comment faire ?,P21,boutique;pièce d'identité,1
+Q25,J'ai reçu une alerte : quelqu'un s'est connecté depuis un autre pays. Que dois-je faire ?,P22,mot de passe|mots de passe,1
+Q26,Que dois-je fournir pour corriger l'orthographe de mon nom ?,P23,justificatif d'identité|pièce d'identité,1
+Q27,Combien d'accès séparés puis-je donner à mes enfants ?,P24,5|cinq,1
+Q28,Je veux savoir tout ce que vous savez sur moi. Sous quel délai aurai-je une réponse ?,P25,un mois|1 mois,1
+Q29,J'ai créé deux espaces client avec le même mail. Peut-on les réunir ?,P26,fusionner|fusion,1
+Q30,La lumière de mon routeur est rouge. Que faire ?,P27,30 secondes,1
+Q31,Je paie pour 1 Gb/s et mon téléphone en Wi-Fi mesure 300 Mb/s. Est-ce normal ?,P28,ethernet,1
+Q32,"Si un technicien se déplace chez moi, est-ce que je vais payer ?",P29,gratuite|gratuit;59 euros,1
+Q33,Faites-vous une réduction aux étudiants ?,P32,30 %;12 mois,1
+Q34,Combien de lignes faut-il pour obtenir un devis professionnel ?,P33,5 lignes|cinq lignes,1
+Q35,Que gagne-t-on à faire venir un ami chez Fibrelune ?,P34,30 euros,1
+Q36,Je pars quatre mois en stage à l'étranger. Dois-je continuer à payer mon abonnement en entier ?,P35,5 euros,1
+Q37,Proposez-vous la fibre en Algérie ?,,,0
+Q38,Puis-je louer un deuxième décodeur TV pour ma chambre ?,,,0
+Q39,Quels sont les horaires d'ouverture de vos boutiques ?,,,0
+Q40,Avez-vous une offre spéciale pour les retraités ?,,,0
+Q41,Combien coûte un appel vers l'Italie depuis ma ligne fixe ?,,,0
+Q42,Puis-je obtenir une adresse IP fixe ?,,,0
+Q43,Vendez-vous des téléphones portables ?,,,0
+Q44,Qui est le directeur général de Fibrelune ?,,,0

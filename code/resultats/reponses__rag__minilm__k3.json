@@ -1,0 +1,570 @@
+{
+  "etiquette": "rag__minilm__k3",
+  "mode": "rag",
+  "embedding": "minilm",
+  "k": 3,
+  "modele": "qwen/qwen3.8-27b",
+  "exactitude": 0.8055555555555556,
+  "refus_a_tort": 0.19444444444444445,
+  "refus_corrects": 1.0,
+  "sources_inventees": 0,
+  "invalides": 0,
+  "latence_s": 0.54,
+  "ids": [
+    "Q01",
+    "Q02",
+    "Q03",
+    "Q04",
+    "Q05",
+    "Q06",
+    "Q07",
+    "Q08",
+    "Q09",
+    "Q10",
+    "Q11",
+    "Q12",
+    "Q13",
+    "Q14",
+    "Q15",
+    "Q16",
+    "Q17",
+    "Q18",
+    "Q19",
+    "Q20",
+    "Q21",
+    "Q22",
+    "Q23",
+    "Q24",
+    "Q25",
+    "Q26",
+    "Q27",
+    "Q28",
+    "Q29",
+    "Q30",
+    "Q31",
+    "Q32",
+    "Q33",
+    "Q34",
+    "Q35",
+    "Q36",
+    "Q37",
+    "Q38",
+    "Q39",
+    "Q40",
+    "Q41",
+    "Q42",
+    "Q43",
+    "Q44"
+  ],
+  "repondable": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "justes": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "trouves": [
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    true,
+    false,
+    true,
+    false,
+    false,
+    true,
+    false,
+    false,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "reponses": [
+    "Information insuffisante",
+    "Oui, le paiement en espèces est possible uniquement en boutique Fibrelune.",
+    "Vous risquez de recevoir une relance par e-mail et SMS, ainsi que des frais de retard de 15 euros ajoutés à votre prochaine facture. Si la facture reste impayée 30 jours après cette relance, votre ligne sera suspendue jusqu'au règlement complet.",
+    "La remise en service de votre ligne intervient sous 24 heures après le paiement. Cette information est précisée dans les conditions relatives au retard de paiement.",
+    "Oui, votre facture de 89 euros peut être réglée en deux ou trois fois sans frais. La demande doit être effectuée depuis l'espace client, rubrique Factures, avant la date d'échéance.",
+    "Vous disposez de 60 jours après l'émission de la facture pour contester un montant. La contestation se fait depuis l'espace client via le bouton « Contester un montant ».",
+    "Le montant prélevé en trop sera remboursé sous 5 jours ouvrés directement sur votre compte bancaire. Vous devez signaler le doublon au service facturation en précisant la date des deux opérations.",
+    "Le solde en votre faveur est remboursé automatiquement par virement sous 30 jours sur le compte bancaire enregistré. Vous n'avez aucune démarche à faire, sauf si vous avez changé de banque, auquel cas vous devez transmettre votre nouveau RIB.",
+    "Information insuffisante",
+    "Non, le geste commercial de 15 euros ne sera jamais versé en argent sur votre compte bancaire. Il apparaîtra sous forme d'avoir sur votre facture suivante, ou sur celle d'après si la facture suivante est déjà émise.",
+    "Information insuffisante",
+    "L'engagement des offres Fibrelune dure 12 mois. À la fin de cette période, le contrat se poursuit sans engagement.",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Non, vous ne paierez pas de frais de résiliation anticipée car votre déménagement à l'étranger est un cas exempté, à condition de fournir une attestation de domicile à l'étranger.",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Le passage à une offre supérieure prend effet immédiatement et le mois en cours est facturé au prorata, au jour près. Vous paierez l'ancien tarif jusqu'à la date du changement et le nouveau tarif ensuite.",
+    "Le passage à une offre inférieure prend effet au début de la période de facturation suivante. Cette modification est possible une fois tous les 6 mois.",
+    "Le transfert de votre ligne vers une nouvelle adresse en France est gratuit. Vous devez le demander depuis l'espace client au moins 15 jours avant votre déménagement.",
+    "Le lien de réinitialisation n'est valable que 30 minutes. Vous devez donc demander un nouveau lien si ce délai est dépassé.",
+    "Votre compte est bloqué pendant 24 heures après 3 tentatives de connexion erronées. Vous pouvez le débloquer immédiatement en utilisant le bouton « Débloquer mon compte » et en saisissant le code reçu par SMS.",
+    "Le code de vérification en deux étapes est valable 5 minutes. Si le code a expiré, vous devez le redemander avec le bouton « Renvoyer un code ».",
+    "Si l'ancien numéro n'est plus accessible, vous devez vous présenter en boutique avec une pièce d'identité pour modifier le numéro qui reçoit les codes de sécurité.",
+    "Si vous ne reconnaissez pas cette connexion, cliquez sur « Ce n'était pas moi » pour fermer toutes les sessions et changer votre mot de passe.",
+    "Pour modifier votre nom, vous devez fournir un justificatif d'identité qui sera vérifié sous 3 jours ouvrés.",
+    "Le titulaire peut créer jusqu'à 5 profils supplémentaires pour ses enfants. Chaque profil dispose de son propre identifiant et ne voit ni les factures ni les documents du titulaire.",
+    "Vous pouvez demander une copie de toutes vos données personnelles depuis la rubrique Mes informations, lien « Mes données ». Fibrelune répond à cette demande dans un délai d'un mois.",
+    "Oui, le service client peut fusionner les deux comptes créés par erreur sur demande. Les factures des deux comptes resteront consultables dans le compte conservé.",
+    "Débranchez la box pendant 30 secondes puis rebranchez-la et attendez 5 minutes. Si le voyant reste rouge, lancez le diagnostic à distance depuis l'espace client, rubrique Diagnostic.",
+    "Oui, c'est normal car le débit en Wi-Fi peut être divisé par deux ou plus selon la distance et les murs. Pour mesurer le débit réel de votre offre de 1 Gb/s, utilisez le test de débit de l'espace client avec un ordinateur branché en Ethernet.",
+    "L'intervention du technicien est gratuite si la panne provient du réseau Fibrelune, mais elle est facturée 59 euros si le matériel a été endommagé par le client.",
+    "Oui, les étudiants bénéficient de 30 % de réduction pendant 12 mois sur l'offre Confort. Il faut fournir une carte étudiant ou un certificat de scolarité de l'année en cours.",
+    "Il faut au moins 5 lignes pour demander un devis professionnel. Le devis est envoyé sous 48 heures.",
+    "En parrainant un nouvel abonné, vous recevez un avoir de 30 euros, tout comme votre filleul. Cet avoir est appliqué sur la facture qui suit le premier mois d'abonnement de votre ami.",
+    "Non, vous pouvez suspendre votre ligne pour une durée de 1 à 6 mois et ne paierez que 5 euros par mois au lieu de votre abonnement. Cette suspension se demande depuis l'espace client, rubrique Mon offre.",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante",
+    "Information insuffisante"
+  ],
+  "sources": [
+    [],
+    [
+      "P02"
+    ],
+    [
+      "P03"
+    ],
+    [
+      "P03"
+    ],
+    [
+      "P04"
+    ],
+    [
+      "P05"
+    ],
+    [
+      "P06"
+    ],
+    [
+      "P07"
+    ],
+    [],
+    [
+      "P09"
+    ],
+    [],
+    [
+      "P10"
+    ],
+    [],
+    [],
+    [
+      "P12"
+    ],
+    [],
+    [],
+    [
+      "P15"
+    ],
+    [
+      "P16"
+    ],
+    [
+      "P17"
+    ],
+    [
+      "P18"
+    ],
+    [
+      "P19"
+    ],
+    [
+      "P20"
+    ],
+    [
+      "P21"
+    ],
+    [
+      "P22"
+    ],
+    [
+      "P23"
+    ],
+    [
+      "P24"
+    ],
+    [
+      "P25"
+    ],
+    [
+      "P26"
+    ],
+    [
+      "P27"
+    ],
+    [
+      "P28",
+      "P14"
+    ],
+    [
+      "P29"
+    ],
+    [
+      "P32"
+    ],
+    [
+      "P33"
+    ],
+    [
+      "P34"
+    ],
+    [
+      "P35"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ],
+  "contexte": [
+    [
+      "P07",
+      "P06",
+      "P34"
+    ],
+    [
+      "P02",
+      "P01",
+      "P03"
+    ],
+    [
+      "P01",
+      "P02",
+      "P03"
+    ],
+    [
+      "P08",
+      "P07",
+      "P03"
+    ],
+    [
+      "P04",
+      "P34",
+      "P03"
+    ],
+    [
+      "P05",
+      "P03",
+      "P01"
+    ],
+    [
+      "P04",
+      "P06",
+      "P34"
+    ],
+    [
+      "P07",
+      "P09",
+      "P08"
+    ],
+    [
+      "P19",
+      "P13",
+      "P11"
+    ],
+    [
+      "P34",
+      "P02",
+      "P09"
+    ],
+    [
+      "P16",
+      "P15",
+      "P08"
+    ],
+    [
+      "P10",
+      "P16",
+      "P15"
+    ],
+    [
+      "P19",
+      "P13",
+      "P22"
+    ],
+    [
+      "P05",
+      "P15",
+      "P13"
+    ],
+    [
+      "P12",
+      "P10",
+      "P29"
+    ],
+    [
+      "P22",
+      "P19",
+      "P18"
+    ],
+    [
+      "P04",
+      "P16",
+      "P34"
+    ],
+    [
+      "P01",
+      "P15",
+      "P16"
+    ],
+    [
+      "P15",
+      "P16",
+      "P10"
+    ],
+    [
+      "P14",
+      "P17",
+      "P12"
+    ],
+    [
+      "P23",
+      "P22",
+      "P18"
+    ],
+    [
+      "P19",
+      "P13",
+      "P22"
+    ],
+    [
+      "P19",
+      "P20",
+      "P13"
+    ],
+    [
+      "P21",
+      "P20",
+      "P19"
+    ],
+    [
+      "P22",
+      "P17",
+      "P19"
+    ],
+    [
+      "P23",
+      "P18",
+      "P22"
+    ],
+    [
+      "P24",
+      "P14",
+      "P34"
+    ],
+    [
+      "P25",
+      "P18",
+      "P23"
+    ],
+    [
+      "P26",
+      "P23",
+      "P18"
+    ],
+    [
+      "P27",
+      "P22",
+      "P29"
+    ],
+    [
+      "P28",
+      "P14",
+      "P08"
+    ],
+    [
+      "P29",
+      "P08",
+      "P04"
+    ],
+    [
+      "P32",
+      "P33",
+      "P03"
+    ],
+    [
+      "P33",
+      "P32",
+      "P04"
+    ],
+    [
+      "P12",
+      "P10",
+      "P34"
+    ],
+    [
+      "P14",
+      "P35",
+      "P34"
+    ],
+    [
+      "P14",
+      "P12",
+      "P29"
+    ],
+    [
+      "P14",
+      "P34",
+      "P08"
+    ],
+    [
+      "P01",
+      "P15",
+      "P13"
+    ],
+    [
+      "P02",
+      "P16",
+      "P15"
+    ],
+    [
+      "P14",
+      "P04",
+      "P35"
+    ],
+    [
+      "P17",
+      "P23",
+      "P21"
+    ],
+    [
+      "P21",
+      "P30",
+      "P13"
+    ],
+    [
+      "P33",
+      "P25",
+      "P10"
+    ]
+  ]
+}

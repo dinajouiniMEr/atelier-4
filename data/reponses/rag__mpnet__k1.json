@@ -1,0 +1,354 @@
+{
+ "qwen/qwen3.8-27b|Q01|P06": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.02
+ },
+ "qwen/qwen3.8-27b|Q02|P02": {
+  "reponse": "Oui, le paiement en espèces est possible uniquement en boutique Fibrelune.",
+  "sources": [
+   "P02"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.67
+ },
+ "qwen/qwen3.8-27b|Q03|P03": {
+  "reponse": "Vous risquez des frais de retard de 15 euros ajoutés à votre prochaine facture. Si la facture reste impayée 30 jours après la relance, votre ligne sera suspendue jusqu'au règlement complet.",
+  "sources": [
+   "P03"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.47
+ },
+ "qwen/qwen3.8-27b|Q04|P03": {
+  "reponse": "La remise en service de votre ligne intervient sous 24 heures après le paiement.",
+  "sources": [
+   "P03"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.6
+ },
+ "qwen/qwen3.8-27b|Q05|P04": {
+  "reponse": "Oui, votre facture de 89 euros peut être réglée en deux ou trois fois sans frais. La demande doit être effectuée depuis l'espace client, rubrique Factures, avant la date d'échéance.",
+  "sources": [
+   "P04"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.9
+ },
+ "qwen/qwen3.8-27b|Q06|P05": {
+  "reponse": "Vous disposez de 60 jours après l'émission de la facture pour contester un montant. La contestation se fait depuis l'espace client via le bouton « Contester un montant ».",
+  "sources": [
+   "P05"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.78
+ },
+ "qwen/qwen3.8-27b|Q07|P04": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.42
+ },
+ "qwen/qwen3.8-27b|Q08|P07": {
+  "reponse": "Le solde en votre faveur est remboursé automatiquement par virement sous 30 jours sur le compte bancaire enregistré. Vous n'avez aucune démarche à faire, sauf si vous avez changé de banque, auquel cas vous devez transmettre votre nouveau RIB.",
+  "sources": [
+   "P07"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.66
+ },
+ "qwen/qwen3.8-27b|Q09|P29": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.56
+ },
+ "qwen/qwen3.8-27b|Q10|P04": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.34
+ },
+ "qwen/qwen3.8-27b|Q11|P16": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.36
+ },
+ "qwen/qwen3.8-27b|Q12|P10": {
+  "reponse": "L'engagement des offres Fibrelune dure 12 mois. À la fin de cette période, le contrat se poursuit sans engagement.",
+  "sources": [
+   "P10"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.94
+ },
+ "qwen/qwen3.8-27b|Q13|P08": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.82
+ },
+ "qwen/qwen3.8-27b|Q14|P05": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.47
+ },
+ "qwen/qwen3.8-27b|Q15|P35": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.61
+ },
+ "qwen/qwen3.8-27b|Q16|P13": {
+  "reponse": "Oui, vous pouvez vous rétracter dans les 14 jours suivant la souscription sans frais ni justification. Les jours de service déjà utilisés seront facturés au prorata.",
+  "sources": [
+   "P13"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q17|P14": {
+  "reponse": "L'offre la moins chère, Essentiel, propose un débit maximum de 300 Mb/s.",
+  "sources": [
+   "P14"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.59
+ },
+ "qwen/qwen3.8-27b|Q18|P16": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.47
+ },
+ "qwen/qwen3.8-27b|Q19|P16": {
+  "reponse": "Le passage à une offre inférieure prend effet au début de la période de facturation suivante. Cette modification est possible une fois tous les 6 mois.",
+  "sources": [
+   "P16"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.77
+ },
+ "qwen/qwen3.8-27b|Q20|P17": {
+  "reponse": "Le transfert de votre ligne vers une nouvelle adresse en France est gratuit. Vous devez effectuer la demande depuis l'espace client au moins 15 jours avant votre déménagement.",
+  "sources": [
+   "P17"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.67
+ },
+ "qwen/qwen3.8-27b|Q21|P21": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 1.21
+ },
+ "qwen/qwen3.8-27b|Q22|P19": {
+  "reponse": "Votre compte est bloqué pendant 24 heures après 3 tentatives de connexion erronées. Vous pouvez le débloquer immédiatement en utilisant le bouton « Débloquer mon compte » et en saisissant le code reçu par SMS.",
+  "sources": [
+   "P19"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.39
+ },
+ "qwen/qwen3.8-27b|Q23|P20": {
+  "reponse": "Le code est valable 5 minutes. Si le code a expiré, vous devez le redemander avec le bouton « Renvoyer un code ».",
+  "sources": [
+   "P20"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q24|P21": {
+  "reponse": "Si votre ancien numéro n'est plus accessible, vous devez vous présenter en boutique avec une pièce d'identité pour modifier le numéro qui reçoit les codes de sécurité.",
+  "sources": [
+   "P21"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.72
+ },
+ "qwen/qwen3.8-27b|Q25|P22": {
+  "reponse": "Si vous ne reconnaissez pas cette connexion, cliquez sur « Ce n'était pas moi » pour fermer toutes les sessions et changez votre mot de passe.",
+  "sources": [
+   "P22"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.72
+ },
+ "qwen/qwen3.8-27b|Q26|P23": {
+  "reponse": "Vous devez fournir un justificatif d'identité pour modifier votre nom. Ce document sera vérifié sous 3 jours ouvrés.",
+  "sources": [
+   "P23"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 1.25
+ },
+ "qwen/qwen3.8-27b|Q27|P34": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 2.23
+ },
+ "qwen/qwen3.8-27b|Q28|P23": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.68
+ },
+ "qwen/qwen3.8-27b|Q29|P26": {
+  "reponse": "Oui, le service client peut fusionner les deux comptes créés par erreur sur demande. Les factures des deux comptes resteront consultables dans le compte conservé.",
+  "sources": [
+   "P26"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.63
+ },
+ "qwen/qwen3.8-27b|Q30|P27": {
+  "reponse": "Débranchez la box pendant 30 secondes puis rebranchez-la et attendez 5 minutes. Si le voyant reste rouge, lancez le diagnostic à distance depuis l'espace client, rubrique Diagnostic.",
+  "sources": [
+   "P27"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.56
+ },
+ "qwen/qwen3.8-27b|Q31|P14": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.88
+ },
+ "qwen/qwen3.8-27b|Q32|P29": {
+  "reponse": "L'intervention est gratuite si la panne vient du réseau Fibrelune, mais elle est facturée 59 euros si le matériel a été endommagé par le client.",
+  "sources": [
+   "P29"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.41
+ },
+ "qwen/qwen3.8-27b|Q33|P32": {
+  "reponse": "Oui, les étudiants bénéficient de 30 % de réduction pendant 12 mois sur l'offre Confort. Il faut fournir une carte étudiant ou un certificat de scolarité de l'année en cours.",
+  "sources": [
+   "P32"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.56
+ },
+ "qwen/qwen3.8-27b|Q34|P33": {
+  "reponse": "Il faut au moins 5 lignes pour demander un devis professionnel. Le devis est envoyé sous 48 heures.",
+  "sources": [
+   "P33"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.69
+ },
+ "qwen/qwen3.8-27b|Q35|P10": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.8
+ },
+ "qwen/qwen3.8-27b|Q36|P35": {
+  "reponse": "Non, vous pouvez suspendre votre ligne pour 4 mois et ne payer que 5 euros par mois au lieu de votre abonnement. Cette suspension se demande depuis l'espace client, rubrique Mon offre.",
+  "sources": [
+   "P35"
+  ],
+  "suffisant": true,
+  "invalide": false,
+  "latence_s": 0.68
+ },
+ "qwen/qwen3.8-27b|Q37|P14": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.69
+ },
+ "qwen/qwen3.8-27b|Q38|P14": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.37
+ },
+ "qwen/qwen3.8-27b|Q39|P01": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.35
+ },
+ "qwen/qwen3.8-27b|Q40|P16": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.35
+ },
+ "qwen/qwen3.8-27b|Q41|P14": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.39
+ },
+ "qwen/qwen3.8-27b|Q42|P28": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.3
+ },
+ "qwen/qwen3.8-27b|Q43|P30": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.31
+ },
+ "qwen/qwen3.8-27b|Q44|P33": {
+  "reponse": "Information insuffisante",
+  "sources": [],
+  "suffisant": false,
+  "invalide": false,
+  "latence_s": 0.32
+ }
+}
